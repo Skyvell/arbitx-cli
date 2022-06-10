@@ -1,0 +1,2 @@
+EXA = 10**18
+MAX_WORKERS = 10
